@@ -7,6 +7,6 @@ app.get('/', (req, res) => {
     res.send('this is express server')
 })
 
-app.listen(7000, () => {
+app.listen(3430, () => {
     console.log("application is running")
 })
